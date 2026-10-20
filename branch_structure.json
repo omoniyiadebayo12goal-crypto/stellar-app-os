@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1674-create-an-impact-dashboard-for-corporate",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1674-create-an-impact-dashboard-for-corporate": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1674-create-an-impact-dashboard-for-corporate",
+    "origin"
+  ]
+}
